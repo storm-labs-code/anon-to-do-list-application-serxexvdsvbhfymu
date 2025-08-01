@@ -1,1 +1,2 @@
 src/lib/supabase/client.ts
+src/components/auth/RegistrationForm.tsx
