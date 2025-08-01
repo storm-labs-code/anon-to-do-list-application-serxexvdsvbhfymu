@@ -3,3 +3,4 @@ src/components/auth/RegistrationForm.tsx
 src/components/auth/LoginForm.tsx
 src/hooks/useAuth.tsx
 src/app/page.tsx
+src/models/taskModel.ts
